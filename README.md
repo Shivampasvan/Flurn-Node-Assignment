@@ -12,7 +12,7 @@ This is Flurn Company Assignment this is for booking seats.
        
 ## Installation
   
-
+ 
 npm i -g nodemon
 npm install / npm i
 
